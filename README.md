@@ -1,3 +1,7 @@
+# Songs
+<a href="reactredux.netlify.app">Live version</a> \
+A simple app that uses React-Redux to list and display song details.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
