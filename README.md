@@ -1,5 +1,5 @@
 # Songs
-<a href="reactredux.netlify.app">Live version</a> \
+<a href="https://reactredux.netlify.app">Live version</a> \
 A simple app that uses React-Redux to list and display song details.
 
 # Getting Started with Create React App
